@@ -7,7 +7,7 @@ A forward proxy for Golang. Useful to intercept HTTP traffic on your phone or co
 Start the proxy server:
 
 ```
-git clone git@github.com:montanaflynn/roxy.git
+git clone git@github.com:gophergala2016/goxy.git
 cd goxy
 go run goxy.go -port 4444
 ```
